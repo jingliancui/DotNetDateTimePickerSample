@@ -17,4 +17,4 @@ WeChat Official Account(微信公众号):
 
 Xamarin Library
 
-<img src="https://github.com/jingliancui/DotNetDateTimePickerSample/blob/master/Images/wechatqrcode.jpg?raw=true"/>
+<img src="https://github.com/jingliancui/DotNetDateTimePickerSample/blob/main/Images/wechatqrcode.jpg?raw=true"/>
