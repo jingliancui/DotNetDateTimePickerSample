@@ -3,9 +3,9 @@ Sample for showing DateTimePicker on MAUI.
 
 Tutorial:
 
-MAUI: 
+https://mp.weixin.qq.com/s/W34olDthaJWokOV65gslwg
 
-
+https://zhuanlan.zhihu.com/p/648067993
 
 QQ Group:
 
