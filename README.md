@@ -11,10 +11,10 @@ QQ Group:
 
 521288080
 
-313308215(满)
+313308215
 
 WeChat Official Account(微信公众号):
 
-Xamarin Library
+MAUI Library
 
 <img src="https://github.com/jingliancui/DotNetDateTimePickerSample/blob/main/Images/wechatqrcode.jpg?raw=true"/>
